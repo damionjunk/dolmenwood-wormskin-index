@@ -5,6 +5,7 @@
 - Hex Crawl Procedures; ws5 p12-15
 - Dolmenwood Henchmen Hiring Procedures; ws7 p8-16
 - Monster format notes for WS7; ws7 p52
+- Camping Procedures in Dolmenwood; ws8 p14-20
 
 ## History, Background
 
@@ -16,6 +17,7 @@
 - The Tale of the Hag; ws5 p17
 - The Fairy Lords of Dolmenwood; ws6 p2-7
 - The Brackenwold Calendar; ws6 p8-12
+- The Sisters of the Chalice and the Moon; ws8 p2-13
 
 ## Classes
 
@@ -86,6 +88,8 @@
 
 - Fungi of Dolmenwood; ws1 p18-27
 - Lesser Stones of Dolmenwood; ws4 p17-23
+- Forest Campsites; ws8 p21-23
+- Strange Waters; ws8 p24-27
 
 ### Consumable
 
@@ -220,3 +224,8 @@
   - Moss Dwarf; ws7 p60; HD 1
   - Witch; ws7 p61; HD 5
   - Woodgrue; ws7 p64; HD 1
+  - Brainconk; ws8 p28; HD 1+1
+  - Jack-o'-Lantern; ws8 p30; HD 3
+  - Ochre Slime-Hulk; ws8 p32; HD 7
+  - Pook Morel; ws8 p34; HD 1d3 hp
+  - Wronguncle; ws8 p36; HD 2
