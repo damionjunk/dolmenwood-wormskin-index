@@ -74,12 +74,12 @@
 - Spiritous Beverages; ws6 p58-59
 - Common Names in Dolmenwood; ws7 p2-7
 
-## Environmental
+### Environmental
 
 - Fungi of Dolmenwood; ws1 p18-27
 - Lesser Stones of Dolmenwood; ws4 p17-23
 
-## Consumable
+### Consumable
 
 - Common Tavern Fare; ws2 p3-4
 - Psychedelic Compounds; ws2 p5-16
