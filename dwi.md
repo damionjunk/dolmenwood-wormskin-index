@@ -4,6 +4,7 @@
 
 - Hex Crawl Procedures; ws5 p12-15
 - Dolmenwood Henchmen Hiring Procedures; ws7 p8-16
+- Monster format notes for WS7; ws7 p52
 
 ## History, Background
 
@@ -64,6 +65,13 @@
 - East of Prigwort
   - 1306
     - Stag Lord; ws7 p28
+- From Lankshorn to Dreg
+  - 0910
+    - Aethogrym; ws7 p40
+  - 0911
+    - Shub's Nanna; ws7 p43
+  - 1010
+    - Mallowyn and Trellayde Occland; ws7 p44
 
 ## Generators
 
@@ -144,7 +152,16 @@
   - 1405 The Village of Orbswallow; ws7 p32
   - 1406 The Golden Wood; ws7 p35
   - 1407 The Wenchgate; ws7 p36
-
+  - 1506 The Grey Vorpal Monolith and the Dung Heap; ws7 p37
+  - 1507 Norstone; ws7 p38
+- From Lankshorn to Dreg
+  - 0910 Golokstone and the House of Aethogrym; ws7 p39
+  - 0911 Shub's Nanna; ws7 p41
+  - 1009 Buried Titanic Skull; ws7 p43
+  - 1010 The House of the Harridwn; ws7 p44
+  - 1011 Brydging Ring; ws7 p46
+  - 1110 The Port of Dreg and Shantywood Isle; ws7 p47
+  - 1111 The Tea Tent and the Dreaming Snail; ws7 p50
 
 ### Hex Contents
 
@@ -193,3 +210,13 @@
   - Phlegm Wyrm; ws6 p68; HD 3,6,8,10
   - Blood Wyrm; ws6 p70; HD 4,8,10,12
   - Yellow Bile Wyrm; ws6 p72; HD 5,10,12,14
+  - Antler Wraith; ws7 p53; HD 4+2
+  - Audrune; ws7 p54; HD 6
+  - Crookhorn Goatman; ws7 p55; HD 2+1
+  - Drunewife; ws7 p56; HD 3
+  - Kilnlings; ws7 p57
+  - Giant Snail - Psionic; ws7 p58; HD 6
+  - Giant Snail - Rapacious; ws7 p59; HD 6
+  - Moss Dwarf; ws7 p60; HD 1
+  - Witch; ws7 p61; HD 5
+  - Woodgrue; ws7 p64; HD 1
