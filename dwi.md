@@ -18,6 +18,7 @@
 - The Fairy Lords of Dolmenwood; ws6 p2-7
 - The Brackenwold Calendar; ws6 p8-12
 - The Sisters of the Chalice and the Moon; ws8 p2-13
+- The Valley of the Wise Beasts; WtD p6
 
 ## Classes
 
@@ -39,6 +40,9 @@
   - Segwine, badger-magi; ws3 p18
 - Atacorn's Retreat
   - Farthingy, Atacorn; ws4 p2
+- Court of the Nag-Lord
+  - Atanuwé, Old-shub, Nag-Lord, King of the wood
+    - See: "Petty Gods"; p9
 - Ruined Abbey of St Clewd
   - Abbot Lummingwyll; ws4 p48
   - Subprior Proster; ws4 p48
@@ -117,6 +121,7 @@
   - 0809 The Ditchway; ws2 p24
   - 0810 King's Mounds; ws2 p24
 - The Woods East of Lake Longmere; ws3 p15
+  - 0604 Fort Vulgar; WtD p5
   - 0705 The Scrabey Who Forgot His Name; ws3 p15
   - 0706 The Phantom Isle; ws3 p16
   - 0804 The Spire and the Summerstone; ws3 p17
